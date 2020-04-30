@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="news_cat_1">头条</string>
+    <string name="news_cat_2">新闻</string>
+    <string name="news_cat_3">财经</string>
+    <string name="news_cat_4">体育</string>
+    <string name="news_cat_5">娱乐</string>
+    <string name="news_cat_6">军事</string>
+    <string name="news_cat_7">教育</string>
+    <string name="news_cat_8">科技</string>
+    <string name="news_cat_9">NBA</string>
+    <string name="news_cat_10">星座</string>
+    <string name="news_cat_11">女性</string>
+    <string name="news_cat_12">健康</string>
+    <string name="news_cat_13">育儿</string>
+
+</resources>
